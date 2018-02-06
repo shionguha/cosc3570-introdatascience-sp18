@@ -30,11 +30,11 @@ raw_subset$m514 <- NULL
 raw_subset$f04 <- NULL
 raw_subset$f514 <- NULL
 
-#******************************************************************************************
+#*******************************************************************************************************************************************
 #Problems with the dataset:
 #1: A single variable (sex_age) is spread across multiple columns. Rule of tidy data: a single variable should belong to a single column
 #2: Two variables are stored in the same column (sex_age should be split into the sex column and the age column).
-#******************************************************************************************
+#*******************************************************************************************************************************************
 
 #MELTING
 #Fixing problem #1 by Melting the data by using the country and the year as our Ids
