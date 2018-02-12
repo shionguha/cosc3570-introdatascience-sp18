@@ -30,11 +30,11 @@ raw_subset$m514 <- NULL
 raw_subset$f04 <- NULL
 raw_subset$f514 <- NULL
 
-#*******************************************************************************************************************************************
+#******************************************************************************************
 #Problems with the dataset:
 #1: A single variable (sex_age) is spread across multiple columns. Rule of tidy data: a single variable should belong to a single column
 #2: Two variables are stored in the same column (sex_age should be split into the sex column and the age column).
-#*******************************************************************************************************************************************
+#******************************************************************************************
 
 #MELTING
 #Fixing problem #1 by Melting the data by using the country and the year as our Ids
@@ -46,4 +46,21 @@ names(clean_data)[4] <- "frequency"
 
 #Sorting the data; first by the country, then sex_age and then by year)
 clean_data <- arrange(clean_data, country, sex_age, year)
+
+#clean_data$gender <- str_sub(clean_data$sex_age, 1,1)
+clean_data <- separate(clean_data, col = "sex_age", into = c("sex", "age"), sep =1)
+
+#x <- c(1,2,3,5,2,2,2,2,2,3,3,3,3,3,1,1,1,1)
+#y <- factor(x)
+#y
+
+ages <- c("014" = "0-14", "1524" = "15-24", "2534" = "25-34", "3544" = "35-44", "4554" = "45-54", "5564" = "55-64", "65" = "65+", "u" = NA)
+ages_factor <- factor(ages)
+ages_factor
+
+#clean_data$age <- factor(ages)
+clean_data$age <- factor(ages[str_sub(clean_data$age)], levels = ages)
+
+
+
 
