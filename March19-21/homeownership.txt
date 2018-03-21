@@ -1,0 +1,729 @@
+state	year	value
+United States	2010	65.1
+United States	2000	66.2
+United States	1990	64.2
+United States	1980	64.4
+United States	1970	62.9
+United States	1960	61.9
+United States	1950	55
+United States	1940	43.6
+United States	1930	47.8
+United States	1920	45.6
+United States	1910	45.9
+United States	1900	46.5
+Alabama	2010	69.7
+Alabama	2000	72.5
+Alabama	1990	70.5
+Alabama	1980	70.1
+Alabama	1970	66.7
+Alabama	1960	59.7
+Alabama	1950	49.4
+Alabama	1940	33.6
+Alabama	1930	34.2
+Alabama	1920	35
+Alabama	1910	35.1
+Alabama	1900	34.4
+Alaska	2010	63.1
+Alaska	2000	62.5
+Alaska	1990	56.1
+Alaska	1980	58.3
+Alaska	1970	50.3
+Alaska	1960	48.3
+Alaska	1950	54.5
+Alaska	1940	
+Alaska	1930	
+Alaska	1920	
+Alaska	1910	
+Alaska	1900	
+Arizona	2010	66
+Arizona	2000	68
+Arizona	1990	64.2
+Arizona	1980	68.3
+Arizona	1970	65.3
+Arizona	1960	63.9
+Arizona	1950	56.4
+Arizona	1940	47.9
+Arizona	1930	44.8
+Arizona	1920	42.8
+Arizona	1910	49.2
+Arizona	1900	57.5
+Arkansas	2010	67
+Arkansas	2000	69.4
+Arkansas	1990	69.6
+Arkansas	1980	70.5
+Arkansas	1970	66.7
+Arkansas	1960	61.4
+Arkansas	1950	54.5
+Arkansas	1940	39.7
+Arkansas	1930	40.1
+Arkansas	1920	45.1
+Arkansas	1910	46.6
+Arkansas	1900	47.7
+California	2010	55.9
+California	2000	56.9
+California	1990	55.6
+California	1980	55.9
+California	1970	54.9
+California	1960	58.4
+California	1950	54.3
+California	1940	43.4
+California	1930	46.1
+California	1920	43.7
+California	1910	49.5
+California	1900	46.3
+Colorado	2010	65.5
+Colorado	2000	67.3
+Colorado	1990	62.2
+Colorado	1980	64.5
+Colorado	1970	63.4
+Colorado	1960	63.8
+Colorado	1950	58.1
+Colorado	1940	46.3
+Colorado	1930	50.7
+Colorado	1920	51.6
+Colorado	1910	51.5
+Colorado	1900	46.6
+Connecticut	2010	67.5
+Connecticut	2000	66.8
+Connecticut	1990	65.6
+Connecticut	1980	63.9
+Connecticut	1970	62.5
+Connecticut	1960	61.9
+Connecticut	1950	51.1
+Connecticut	1940	40.5
+Connecticut	1930	44.5
+Connecticut	1920	37.6
+Connecticut	1910	37.3
+Connecticut	1900	39
+Delaware	2010	72.1
+Delaware	2000	72.3
+Delaware	1990	70.2
+Delaware	1980	69.1
+Delaware	1970	68
+Delaware	1960	66.9
+Delaware	1950	58.9
+Delaware	1940	47.1
+Delaware	1930	52.1
+Delaware	1920	44.7
+Delaware	1910	40.7
+Delaware	1900	36.3
+District of Columbia	2010	42
+District of Columbia	2000	40.8
+District of Columbia	1990	38.9
+District of Columbia	1980	35.5
+District of Columbia	1970	28.2
+District of Columbia	1960	30
+District of Columbia	1950	32.3
+District of Columbia	1940	29.9
+District of Columbia	1930	38.6
+District of Columbia	1920	30.3
+District of Columbia	1910	25.2
+District of Columbia	1900	24
+Florida	2010	67.4
+Florida	2000	70.1
+Florida	1990	67.2
+Florida	1980	68.3
+Florida	1970	68.6
+Florida	1960	67.5
+Florida	1950	57.6
+Florida	1940	43.6
+Florida	1930	42
+Florida	1920	42.5
+Florida	1910	44.2
+Florida	1900	46.8
+Georgia	2010	65.7
+Georgia	2000	67.5
+Georgia	1990	64.9
+Georgia	1980	65
+Georgia	1970	61.1
+Georgia	1960	56.2
+Georgia	1950	46.5
+Georgia	1940	30.8
+Georgia	1930	30.6
+Georgia	1920	30.9
+Georgia	1910	30.5
+Georgia	1900	30.6
+Hawaii	2010	57.7
+Hawaii	2000	56.5
+Hawaii	1990	53.9
+Hawaii	1980	51.7
+Hawaii	1970	46.9
+Hawaii	1960	41.1
+Hawaii	1950	33
+Hawaii	1940	
+Hawaii	1930	
+Hawaii	1920	
+Hawaii	1910	
+Hawaii	1900	
+Idaho	2010	69.9
+Idaho	2000	72.4
+Idaho	1990	70.1
+Idaho	1980	72
+Idaho	1970	70.1
+Idaho	1960	70.5
+Idaho	1950	65.5
+Idaho	1940	57.9
+Idaho	1930	57
+Idaho	1920	60.9
+Idaho	1910	68.1
+Idaho	1900	71.6
+Illinois	2010	67.5
+Illinois	2000	67.3
+Illinois	1990	64.2
+Illinois	1980	62.6
+Illinois	1970	59.4
+Illinois	1960	57.8
+Illinois	1950	50.1
+Illinois	1940	40.3
+Illinois	1930	46.5
+Illinois	1920	43.8
+Illinois	1910	44.1
+Illinois	1900	45
+Indiana	2010	69.9
+Indiana	2000	71.4
+Indiana	1990	70.2
+Indiana	1980	71.7
+Indiana	1970	71.7
+Indiana	1960	71.1
+Indiana	1950	65.5
+Indiana	1940	53.1
+Indiana	1930	57.3
+Indiana	1920	54.8
+Indiana	1910	54.8
+Indiana	1900	56.1
+Iowa	2010	72.1
+Iowa	2000	72.3
+Iowa	1990	70
+Iowa	1980	71.8
+Iowa	1970	71.7
+Iowa	1960	69.1
+Iowa	1950	63.4
+Iowa	1940	51.5
+Iowa	1930	54.7
+Iowa	1920	58.1
+Iowa	1910	58.4
+Iowa	1900	60.5
+Kansas	2010	67.8
+Kansas	2000	69.2
+Kansas	1990	67.9
+Kansas	1980	70.2
+Kansas	1970	69.1
+Kansas	1960	68.9
+Kansas	1950	63.9
+Kansas	1940	51
+Kansas	1930	56
+Kansas	1920	56.9
+Kansas	1910	59.1
+Kansas	1900	59.1
+Kentucky	2010	68.7
+Kentucky	2000	70.8
+Kentucky	1990	69.6
+Kentucky	1980	70
+Kentucky	1970	66.9
+Kentucky	1960	64.3
+Kentucky	1950	58.7
+Kentucky	1940	48
+Kentucky	1930	51.3
+Kentucky	1920	51.6
+Kentucky	1910	51.6
+Kentucky	1900	51.5
+Louisiana	2010	67.2
+Louisiana	2000	67.9
+Louisiana	1990	65.9
+Louisiana	1980	65.5
+Louisiana	1970	63.1
+Louisiana	1960	59
+Louisiana	1950	50.3
+Louisiana	1940	36.9
+Louisiana	1930	35
+Louisiana	1920	33.7
+Louisiana	1910	32.2
+Louisiana	1900	31.4
+Maine	2010	71.3
+Maine	2000	71.6
+Maine	1990	70.5
+Maine	1980	70.9
+Maine	1970	70.1
+Maine	1960	66.5
+Maine	1950	62.8
+Maine	1940	57.3
+Maine	1930	61.7
+Maine	1920	59.6
+Maine	1910	62.5
+Maine	1900	64.8
+Maryland	2010	67.5
+Maryland	2000	67.7
+Maryland	1990	65
+Maryland	1980	62
+Maryland	1970	58.8
+Maryland	1960	64.5
+Maryland	1950	56.3
+Maryland	1940	47.4
+Maryland	1930	55.2
+Maryland	1920	49.9
+Maryland	1910	44
+Maryland	1900	40
+Massachusetts	2010	62.3
+Massachusetts	2000	61.7
+Massachusetts	1990	59.3
+Massachusetts	1980	57.5
+Massachusetts	1970	57.5
+Massachusetts	1960	55.9
+Massachusetts	1950	47.9
+Massachusetts	1940	38.1
+Massachusetts	1930	43.5
+Massachusetts	1920	34.8
+Massachusetts	1910	33.1
+Massachusetts	1900	35
+Michigan	2010	72.1
+Michigan	2000	73.8
+Michigan	1990	71
+Michigan	1980	72.7
+Michigan	1970	74.4
+Michigan	1960	74.4
+Michigan	1950	67.5
+Michigan	1940	55.4
+Michigan	1930	59
+Michigan	1920	58.9
+Michigan	1910	61.7
+Michigan	1900	62.3
+Minnesota	2010	73
+Minnesota	2000	74.6
+Minnesota	1990	71.8
+Minnesota	1980	71.7
+Minnesota	1970	71.5
+Minnesota	1960	72.1
+Minnesota	1950	66.4
+Minnesota	1940	55.2
+Minnesota	1930	58.9
+Minnesota	1920	60.7
+Minnesota	1910	61.9
+Minnesota	1900	63.5
+Mississippi	2010	69.6
+Mississippi	2000	72.3
+Mississippi	1990	71.5
+Mississippi	1980	71
+Mississippi	1970	66.3
+Mississippi	1960	57.7
+Mississippi	1950	47.8
+Mississippi	1940	33.3
+Mississippi	1930	32.5
+Mississippi	1920	34
+Mississippi	1910	34
+Mississippi	1900	34.5
+Missouri	2010	68.8
+Missouri	2000	70.3
+Missouri	1990	68.8
+Missouri	1980	69.6
+Missouri	1970	67.2
+Missouri	1960	64.3
+Missouri	1950	57.7
+Missouri	1940	44.3
+Missouri	1930	49.9
+Missouri	1920	49.5
+Missouri	1910	51.1
+Missouri	1900	50.9
+Montana	2010	68
+Montana	2000	69.1
+Montana	1990	67.3
+Montana	1980	68.6
+Montana	1970	65.7
+Montana	1960	64
+Montana	1950	60.3
+Montana	1940	52
+Montana	1930	54.5
+Montana	1920	60.5
+Montana	1910	60
+Montana	1900	56.6
+Nebraska	2010	67.2
+Nebraska	2000	67.4
+Nebraska	1990	66.5
+Nebraska	1980	68.4
+Nebraska	1970	66.4
+Nebraska	1960	64.8
+Nebraska	1950	60.6
+Nebraska	1940	47.1
+Nebraska	1930	54.3
+Nebraska	1920	57.4
+Nebraska	1910	59.1
+Nebraska	1900	56.8
+Nevada	2010	58.8
+Nevada	2000	60.9
+Nevada	1990	54.8
+Nevada	1980	59.6
+Nevada	1970	58.5
+Nevada	1960	56.3
+Nevada	1950	48.7
+Nevada	1940	46.1
+Nevada	1930	47.1
+Nevada	1920	47.6
+Nevada	1910	53.4
+Nevada	1900	66.2
+New Hampshire	2010	71
+New Hampshire	2000	69.7
+New Hampshire	1990	68.2
+New Hampshire	1980	67.6
+New Hampshire	1970	68.2
+New Hampshire	1960	65.1
+New Hampshire	1950	58.1
+New Hampshire	1940	51.7
+New Hampshire	1930	55
+New Hampshire	1920	49.8
+New Hampshire	1910	51.2
+New Hampshire	1900	53.9
+New Jersey	2010	65.4
+New Jersey	2000	65.6
+New Jersey	1990	64.9
+New Jersey	1980	62
+New Jersey	1970	60.9
+New Jersey	1960	61.3
+New Jersey	1950	53.1
+New Jersey	1940	39.4
+New Jersey	1930	48.4
+New Jersey	1920	38.3
+New Jersey	1910	35
+New Jersey	1900	34.3
+New Mexico	2010	68.5
+New Mexico	2000	70
+New Mexico	1990	67.4
+New Mexico	1980	68.1
+New Mexico	1970	66.4
+New Mexico	1960	65.3
+New Mexico	1950	58.8
+New Mexico	1940	57.3
+New Mexico	1930	57.4
+New Mexico	1920	59.4
+New Mexico	1910	70.6
+New Mexico	1900	68.5
+New York	2010	53.3
+New York	2000	53
+New York	1990	52.2
+New York	1980	48.6
+New York	1970	47.3
+New York	1960	44.8
+New York	1950	37.9
+New York	1940	30.3
+New York	1930	37.1
+New York	1920	30.7
+New York	1910	31
+New York	1900	33.2
+North Carolina	2010	66.7
+North Carolina	2000	69.4
+North Carolina	1990	68
+North Carolina	1980	68.4
+North Carolina	1970	65.4
+North Carolina	1960	60.1
+North Carolina	1950	53.3
+North Carolina	1940	42.4
+North Carolina	1930	44.5
+North Carolina	1920	47.4
+North Carolina	1910	47.3
+North Carolina	1900	46.6
+North Dakota	2010	65.4
+North Dakota	2000	66.6
+North Dakota	1990	65.6
+North Dakota	1980	68.7
+North Dakota	1970	68.4
+North Dakota	1960	68.4
+North Dakota	1950	66.2
+North Dakota	1940	49.8
+North Dakota	1930	58.6
+North Dakota	1920	65.3
+North Dakota	1910	75.7
+North Dakota	1900	80
+Ohio	2010	67.6
+Ohio	2000	69.1
+Ohio	1990	67.5
+Ohio	1980	68.4
+Ohio	1970	67.7
+Ohio	1960	67.4
+Ohio	1950	61.1
+Ohio	1940	50
+Ohio	1930	54.4
+Ohio	1920	51.6
+Ohio	1910	51.3
+Ohio	1900	52.5
+Oklahoma	2010	67.2
+Oklahoma	2000	68.4
+Oklahoma	1990	68.1
+Oklahoma	1980	70.7
+Oklahoma	1970	69.2
+Oklahoma	1960	67
+Oklahoma	1950	60
+Oklahoma	1940	42.8
+Oklahoma	1930	41.3
+Oklahoma	1920	45.5
+Oklahoma	1910	45.4
+Oklahoma	1900	54.2
+Oregon	2010	62.2
+Oregon	2000	64.3
+Oregon	1990	63.1
+Oregon	1980	65.1
+Oregon	1970	66.1
+Oregon	1960	69.3
+Oregon	1950	65.3
+Oregon	1940	55.4
+Oregon	1930	59.1
+Oregon	1920	54.8
+Oregon	1910	60.1
+Oregon	1900	58.7
+Pennsylvania	2010	69.6
+Pennsylvania	2000	71.3
+Pennsylvania	1990	70.6
+Pennsylvania	1980	69.9
+Pennsylvania	1970	68.8
+Pennsylvania	1960	68.3
+Pennsylvania	1950	59.7
+Pennsylvania	1940	45.9
+Pennsylvania	1930	54.4
+Pennsylvania	1920	45.2
+Pennsylvania	1910	41.6
+Pennsylvania	1900	41.2
+Rhode Island	2010	60.7
+Rhode Island	2000	60
+Rhode Island	1990	59.5
+Rhode Island	1980	58.8
+Rhode Island	1970	57.9
+Rhode Island	1960	54.5
+Rhode Island	1950	45.3
+Rhode Island	1940	37.4
+Rhode Island	1930	41.2
+Rhode Island	1920	31.1
+Rhode Island	1910	28.3
+Rhode Island	1900	28.6
+South Carolina	2010	69.3
+South Carolina	2000	72.2
+South Carolina	1990	69.8
+South Carolina	1980	70.2
+South Carolina	1970	66.1
+South Carolina	1960	57.3
+South Carolina	1950	45.1
+South Carolina	1940	30.6
+South Carolina	1930	30.9
+South Carolina	1920	32.2
+South Carolina	1910	30.8
+South Carolina	1900	30.6
+South Dakota	2010	68.1
+South Dakota	2000	68.2
+South Dakota	1990	66.1
+South Dakota	1980	69.3
+South Dakota	1970	69.6
+South Dakota	1960	67.2
+South Dakota	1950	62.2
+South Dakota	1940	45
+South Dakota	1930	53.1
+South Dakota	1920	61.5
+South Dakota	1910	68.2
+South Dakota	1900	71.2
+Tennessee	2010	68.2
+Tennessee	2000	69.9
+Tennessee	1990	68
+Tennessee	1980	68.6
+Tennessee	1970	66.7
+Tennessee	1960	63.7
+Tennessee	1950	56.5
+Tennessee	1940	44.1
+Tennessee	1930	46.2
+Tennessee	1920	47.7
+Tennessee	1910	47
+Tennessee	1900	46.3
+Texas	2010	63.7
+Texas	2000	63.8
+Texas	1990	60.9
+Texas	1980	64.3
+Texas	1970	64.7
+Texas	1960	64.8
+Texas	1950	56.7
+Texas	1940	42.8
+Texas	1930	41.7
+Texas	1920	42.8
+Texas	1910	45.1
+Texas	1900	46.5
+Utah	2010	70.4
+Utah	2000	71.5
+Utah	1990	68.1
+Utah	1980	70.7
+Utah	1970	69.3
+Utah	1960	71.7
+Utah	1950	65.3
+Utah	1940	61.1
+Utah	1930	60.9
+Utah	1920	60
+Utah	1910	64.8
+Utah	1900	67.8
+Vermont	2010	70.7
+Vermont	2000	70.6
+Vermont	1990	69
+Vermont	1980	68.7
+Vermont	1970	69.1
+Vermont	1960	66
+Vermont	1950	61.3
+Vermont	1940	55.9
+Vermont	1930	59.8
+Vermont	1920	57.5
+Vermont	1910	58.5
+Vermont	1900	60.4
+Virginia	2010	67.2
+Virginia	2000	68.1
+Virginia	1990	66.3
+Virginia	1980	65.6
+Virginia	1970	62
+Virginia	1960	61.3
+Virginia	1950	55.1
+Virginia	1940	48.9
+Virginia	1930	52.4
+Virginia	1920	51.1
+Virginia	1910	51.5
+Virginia	1900	48.8
+Washington	2010	63.9
+Washington	2000	64.6
+Washington	1990	62.6
+Washington	1980	65.6
+Washington	1970	66.8
+Washington	1960	68.5
+Washington	1950	65
+Washington	1940	57
+Washington	1930	59.4
+Washington	1920	54.7
+Washington	1910	57.3
+Washington	1900	54.5
+West Virginia	2010	73.4
+West Virginia	2000	75.2
+West Virginia	1990	74.1
+West Virginia	1980	73.6
+West Virginia	1970	68.9
+West Virginia	1960	64.3
+West Virginia	1950	55
+West Virginia	1940	43.7
+West Virginia	1930	45.9
+West Virginia	1920	46.8
+West Virginia	1910	49.5
+West Virginia	1900	54.6
+Wisconsin	2010	68.1
+Wisconsin	2000	68.4
+Wisconsin	1990	66.7
+Wisconsin	1980	68.2
+Wisconsin	1970	69.1
+Wisconsin	1960	68.6
+Wisconsin	1950	63.5
+Wisconsin	1940	54.4
+Wisconsin	1930	63.2
+Wisconsin	1920	63.6
+Wisconsin	1910	64.6
+Wisconsin	1900	66.4
+Wyoming	2010	69.2
+Wyoming	2000	70
+Wyoming	1990	67.8
+Wyoming	1980	69.2
+Wyoming	1970	66.4
+Wyoming	1960	62.2
+Wyoming	1950	54
+Wyoming	1940	48.6
+Wyoming	1930	48.3
+Wyoming	1920	51.9
+Wyoming	1910	54.5
+Wyoming	1900	55.2
+Alabama	2015	67.9
+Alaska	2015	63.9
+Arizona	2015	61.9
+Arkansas	2015	65.2
+California	2015	53.6
+Colorado	2015	63.7
+Connecticut	2015	66.2
+Delaware	2015	70.8
+District of Columbia	2015	39.9
+Florida	2015	63.8
+Georgia	2015	61.8
+Hawaii	2015	56.6
+Idaho	2015	69
+Illinois	2015	65.3
+Indiana	2015	68.2
+Iowa	2015	70.7
+Kansas	2015	66.4
+Kentucky	2015	66.3
+Louisiana	2015	64.6
+Maine	2015	71
+Maryland	2015	65.9
+Massachusetts	2015	61.7
+Michigan	2015	70.4
+Minnesota	2015	70.9
+Mississippi	2015	67.4
+Missouri	2015	66.1
+Montana	2015	66.7
+Nebraska	2015	65.9
+Nevada	2015	54
+New Hampshire	2015	70.9
+New Jersey	2015	63
+New Mexico	2015	67.5
+New York	2015	53.1
+North Carolina	2015	63.9
+North Dakota	2015	61.7
+Ohio	2015	65.4
+Oklahoma	2015	65.3
+Oregon	2015	61.1
+Pennsylvania	2015	68.7
+Rhode Island	2015	59
+South Carolina	2015	68.1
+South Dakota	2015	68.2
+Tennessee	2015	65.8
+Texas	2015	61.1
+Utah	2015	68.9
+Vermont	2015	70.7
+Virginia	2015	65
+Washington	2015	62.4
+West Virginia	2015	72.3
+Wisconsin	2015	66.8
+Wyoming	2015	68
+United States	2015	63
+United States	2005	66.9
+Alabama	2005	70.5
+Alaska	2005	63
+Arizona	2005	68.2
+Arkansas	2005	67.8
+California	2005	58.4
+Colorado	2005	67.8
+Connecticut	2005	69.5
+Delaware	2005	72.4
+District of Columbia	2005	42.5
+Florida	2005	69.6
+Georgia	2005	66.8
+Hawaii	2005	59.7
+Idaho	2005	71.4
+Illinois	2005	69.9
+Indiana	2005	72
+Iowa	2005	73.1
+Kansas	2005	69.5
+Kentucky	2005	70.6
+Louisiana	2005	67.8
+Maine	2005	71.8
+Maryland	2005	69
+Massachusetts	2005	64
+Michigan	2005	74.7
+Minnesota	2005	75.8
+Mississippi	2005	69.9
+Missouri	2005	70.6
+Montana	2005	69.1
+Nebraska	2005	68.2
+Nevada	2005	60.7
+New Hampshire	2005	73
+New Jersey	2005	67.3
+New Mexico	2005	69.3
+New York	2005	55.3
+North Carolina	2005	68.2
+North Dakota	2005	67.5
+Ohio	2005	69.9
+Oklahoma	2005	67.9
+Oregon	2005	63.8
+Pennsylvania	2005	71.5
+Rhode Island	2005	62.7
+South Carolina	2005	70.1
+South Dakota	2005	69
+Tennessee	2005	69.3
+Texas	2005	64.7
+Utah	2005	70.6
+Vermont	2005	71.1
+Virginia	2005	69.6
+Washington	2005	64.7
+West Virginia	2005	75.4
+Wisconsin	2005	70.1
+Wyoming	2005	71.5
